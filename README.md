@@ -4,5 +4,5 @@
 
 ## These files are the basis for a paper investigating the use of the WHO/SDG4 premature NCD mortality metric
 
-## ["Correlation between noncommunicable disease mortality in people aged 30–69 years and those aged 70–89 years"](http://www.who.int/bulletin/online_first/BLT.18.227132.pdf)
+## ["Correlation between noncommunicable disease mortality in people aged 30–69 years and those aged 70–89 years"](http://dx.doi.org/10.2471/BLT.18.227132)
 
